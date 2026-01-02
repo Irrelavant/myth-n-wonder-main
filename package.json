@@ -1,0 +1,13 @@
+{
+  "name": "myth-n-wonder",
+  "version": "1.0.0",
+  "description": "Myth n Wonder - New business venture",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
